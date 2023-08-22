@@ -14,6 +14,5 @@ Data science virtual internship programme by British Airways through Forage!
 - creating a classification model to predict customer buying behaviour
 - preparing a powerpoint representation to highlight our insights and analysis
 
-**Program link**: [Forage](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science?ref=87jnjsrQEx6guHcaq)
 
-**Completion Certificate link**: [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_87jnjsrQEx6guHcaq_1668892290001_completion_certificate.pdf)
+**Completion Certificate link**: [Certificate](https://drive.google.com/file/d/1ZMjEP8Yt9HHNV44gvFckOkrUGMx_-J-h/view?usp=drive_link)
